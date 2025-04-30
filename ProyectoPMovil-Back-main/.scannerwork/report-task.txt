@@ -1,0 +1,6 @@
+projectKey=ProyectoBackMiguel
+serverUrl=http://localhost:9000
+serverVersion=25.4.0.105899
+dashboardUrl=http://localhost:9000/dashboard?id=ProyectoBackMiguel
+ceTaskId=57d31fac-0582-4071-af38-0d89fe86ccd3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=57d31fac-0582-4071-af38-0d89fe86ccd3

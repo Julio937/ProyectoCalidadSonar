@@ -1,0 +1,65 @@
+# Dependencias
+node_modules/
+
+# Archivos de configuración de entorno
+.env
+*.env
+
+# Directorios de logs
+logs
+*.log
+npm-debug.log*
+
+# Directorios y archivos de runtime
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directorio de la base de datos
+*.sqlite
+
+# Archivos de rendimiento de Sequelize
+*.sequelize
+
+# Sistema de archivos de MacOS
+.DS_Store
+
+# Sistema de archivos de Windows
+Thumbs.db
+ehthumbs.db
+
+# Archivos de configuración del editor de texto
+*.sublime*
+*.swp
+*.swo
+*.sln
+*.idea/
+.vscode/
+
+# Archivos de salida de compilación
+build/
+dist/
+tmp/
+
+# Archivos de cobertura de pruebas
+coverage/
+
+# Archivos de paquetes
+*.tgz
+*.tar.gz
+
+# Archivos de copia de seguridad
+*.bak
+*.tmp
+
+# Archivos Yarn
+.yarn-integrity
+.pnp.js
+.pnp.*
+
+# Archivos de configuración de TypeScript
+*.tsbuildinfo
+
+# Archivos de caché
+.cache/
